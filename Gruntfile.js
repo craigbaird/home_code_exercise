@@ -22,14 +22,14 @@ module.exports = function(grunt){
         src: ["style.css"],
         dest: "server/public/styles/"
       },
-      bootstrap: {
-        expand: true,
-        cwd: "node_modules/bootstrap/dist/",
-        src: ["css/bootstrap.css",
-              "css/bootstrap.css.map",
-              "js/bootstrap.js"],
-        dest: "server/public/vendors/bootstrap/"
-      },
+      // bootstrap: {
+      //   expand: true,
+      //   cwd: "node_modules/bootstrap/dist/",
+      //   src: ["css/bootstrap.css",
+      //         "css/bootstrap.css.map",
+      //         "js/bootstrap.js"],
+      //   dest: "server/public/vendors/bootstrap/"
+      // },
     },
     watch: {
       files: [
