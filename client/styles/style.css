@@ -1,3 +1,33 @@
-h1{
-	color: blue;
+.r1LogoContainer {
+	margin: 20px;
+}
+
+.bannerContainer {
+	margin-bottom: 20px;
+}
+
+.banner {
+	width: 100%;
+	height: auto;
+}
+
+.loremIpsumContainer {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	border-left: solid;
+	border-right: solid;
+	border-width: 1px;
+	border-color: #d1d2d3;
+}
+
+.loremIpsum {
+	margin-left: 30px;
+	margin-right:20px;
+}
+
+.form-container {
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
 }
