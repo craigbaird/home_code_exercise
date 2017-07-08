@@ -5,7 +5,7 @@ $(document).ready(function(){
 });
 
 	function collectDisplayFormInfo(){
-		firstName = $('#firstName').val();	
+		var firstName = $('#firstName').val();	
     	var lastName = $('#lastName').val();
     	var email = $('#email').val();
     	var company = $('#company').val();
