@@ -15,15 +15,17 @@
   </head>
   <body>
     <!-- Relationship One Logo -->
-    <div class="r1LogoContainer">
+    <div class="col-md-1 r1LogoContainer">
       <img class="r1Logo" src="views/assets/r1_logo_horizontal.png"> 
     </div>
 
+    <!-- Laundry Banner -->
     <div class="bannerContainer">
       <img class="banner" src="views/assets/laundry_banner.jpg">
     </div> 
 
-    <div class="loremIpsumContainer">
+    <!-- Lorem Ipsum Paragraphs -->
+    <div class="col-md-6 loremIpsumContainer">
       <p class="loremIpsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ullamcorper eros nec aliquam rutrum. Donec at porta velit. Pellentesque placerat et tellus a porttitor. Nam volutpat, elit eget cursus tristique, sapien neque vulputate nisi, id sagittis augue velit a risus. Etiam in neque sed ipsum molestie pretium imperdiet quis elit. Sed id sem dolor. Donec maximus feugiat odio non posuere. Morbi sit amet gravida purus. Aenean condimentum ligula in ipsum sodales, ac lacinia nisl pharetra. Quisque facilisis elementum nisi id cursus. Cras non bibendum mauris, at commodo neque.
         <br></br>
@@ -33,8 +35,8 @@
       </p>
     </div>
 
-    <!-- begin input form -->
-    <div class="formContainer">
+    <!-- Begin Input Form -->
+    <div class=" col-md-6 formContainer">
       <div class="form-group row">
         <label for="firstName" class="col-2 col-form-label">First Name</label>
           <div class="col-10">
@@ -379,18 +381,12 @@
             <textarea class="form-control" id="additionalComments" rows="5"></textarea>
       </div>
       <button type="submit" class="btn btn-primary" id="submit">Submit</button>
-  </div>  <!-- end input form -->  
+  </div>  <!-- End Input Form -->  
     
+    <!-- When form is filled out, user input is appended here -->
+    <div class="col-md-6 container">
     <div id="outputContainer">
-        <!-- <table>
-          <thead>
-            <tr>
-              <th>Completed</th>
-            </tr>
-          </thead>
-          <tbody id="tasks">
-          </tbody>
-        </table> -->
+    </div>
     </div>
   </body>
 </html>
