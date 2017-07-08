@@ -12,21 +12,21 @@ Displayed below are three different browser window size, which demonstrate how t
 ### Large Layout
 
 ![large_layout_1](large_layout_1.png)
-<br />
+<br /> <br /> <br />
 ![large_layout_2](large_layout_2.png)
 
 ### Medium Layout
 
 ![medium_layout_1](medium_layout_1.png)
-<br />
+<br /> <br /> <br />
 ![medium_layout_2](medium_layout_2.png)
 
 ### Small Layout
 
 ![small_layout_1](small_layout_1.png)
-<br />
+<br /> <br /> <br />
 ![small_layout_2](small_layout_2.png)
-<br />
+<br /> <br /> <br />
 ![small_layout_3](small_layout_3.png)
  
 ## Getting Started 
