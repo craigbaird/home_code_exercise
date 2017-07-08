@@ -12,30 +12,38 @@
 }
 
 .loremIpsumContainer {
-	width: 70%;
+	display:inline-block;
+	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
-	border-left: solid;
+	/*border-left: solid;
 	border-right: solid;
 	border-width: 1px;
-	border-color: #d1d2d3;
+	border-color: #d1d2d3;*/
 }
 
 .loremIpsum {
-	margin-left: 30px;
-	margin-right:20px;
+	margin-left: 50px;
+	margin-right: 50px;
 }
 
 .formContainer {
-	width: 300px;
+	display: inline-block;
+	width: 40%;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 20px;
 }
 
-.outputContainer {
+#outputContainer {
 	background-color: lightgrey;
 	width: 600px;
 	height: 400px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.displayedFormData {
+	margin: 20px;
 }
