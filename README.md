@@ -7,7 +7,7 @@ I was given the instructions to create a responsive website using bootstrap in w
 
 ## Product Example
 
-Displayed below are three different browser window size, which demonstrate how the layout changes responsively to accommodate any screen or device size.
+Displayed below are three different browser window sizes, which demonstrate how the layout changes responsively to accommodate any screen or device size.
 
 ### Large Layout
 
