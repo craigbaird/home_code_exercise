@@ -1,25 +1,13 @@
 # Home Code Exercise
 
-This repository displays a code exercise which displays a responsive layout, using bootstrap, and collecting form data and displaying it to the DOM.
+This repository shows my solution to a code exercise, using bootstrap to create a responsive layout, and using jQuery to collect form data and append it to the DOM
 
 ## The Problem
-I was given the instructions to create a responsive website using bootstrap in which the horizontal blocks would stack vertically on smaller screens. I was also given form data and asked to build out the rest of the form and display the data collected upon hitting a submit button, and displaying that information in a bottom div.
+The task was to create a responsive webpage using bootstrap, with items stacking vertically on smaller screens, and some elements sitting inline on larger screens. I was also given form data, asked to build out the rest of the form, and to display the data collected upon hitting a submit button.
 
 ## Product Example
 
 Displayed below are three different browser window sizes, which demonstrate how the layout changes responsively to accommodate any screen or device size.
-
-### Large Layout
-
-![large_layout_1](large_layout_1.png)
-<br /> <br /> <br />
-![large_layout_2](large_layout_2.png)
-
-### Medium Layout
-
-![medium_layout_1](medium_layout_1.png)
-<br /> <br /> <br />
-![medium_layout_2](medium_layout_2.png)
 
 ### Small Layout
 
@@ -28,6 +16,18 @@ Displayed below are three different browser window sizes, which demonstrate how 
 ![small_layout_2](small_layout_2.png)
 <br /> <br /> <br />
 ![small_layout_3](small_layout_3.png)
+
+### Medium Layout
+
+![medium_layout_1](medium_layout_1.png)
+<br /> <br /> <br />
+![medium_layout_2](medium_layout_2.png)
+
+### Large Layout
+
+![large_layout_1](large_layout_1.png)
+<br /> <br /> <br />
+![large_layout_2](large_layout_2.png)
  
 ## Getting Started 
 
