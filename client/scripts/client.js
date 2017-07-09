@@ -22,8 +22,4 @@ $(document).ready(function(){
     	$('#outputContainer').append('<p class="displayedFormData">' + '<b>' + 'Country: ' + '</b>' + country + '</p>');
     	$('#outputContainer').append('<p class="displayedFormData">' + '<b>' + 'State: ' + '</b>' + state + '</p>');
     	$('#outputContainer').append('<p class="displayedFormData">' + '<b>' + 'Additional Comments: ' + '</b>' + additionalComments + '</p>')	
-	}
-	
-
-
-    
+	} 
