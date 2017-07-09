@@ -1,0 +1,32 @@
+.r1LogoContainer {
+	margin: 30px;
+}
+
+.bannerContainer {
+	margin-bottom: 30px;
+}
+
+.banner {
+	width: 100%;
+	height: auto;
+}
+
+.loremIpsumContainer {
+	margin-bottom: 30px;
+}
+
+#submit {
+	margin-bottom: 30px;
+}
+
+#outputContainer {
+	background-color: #edeeef;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.displayedFormData {
+	margin-top: 30px;
+	margin-left: 50px;
+	margin-right:50px;
+}
