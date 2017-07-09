@@ -33,6 +33,5 @@ Displayed below are three different browser window sizes, which demonstrate how 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 1. Download a .zip file of the project
-2. Run the command $npm install in terminal
-3. Run the command $npm start in terminal to start a server
-4. type 'localhost:5000' in browser to view the project
+2. Run the command 'npm start' in command line to start a server
+3. type 'localhost:5000' in browser to view the project
