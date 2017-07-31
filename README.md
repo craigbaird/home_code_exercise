@@ -1,6 +1,6 @@
 # Home Code Exercise
 
-This repository shows my solution to a code exercise, using bootstrap to create a responsive layout, and using jQuery to collect form data and append it to the DOM
+This repository shows my solution to a code exercise, using bootstrap to create a responsive layout, and using jQuery to collect form data and append it to the DOM.
 
 ## The Problem
 The task was to create a responsive webpage using bootstrap, with items stacking vertically on smaller screens, and some elements sitting inline on larger screens. I was also given form data, asked to build out the rest of the form, and to display the data collected upon hitting a submit button.
